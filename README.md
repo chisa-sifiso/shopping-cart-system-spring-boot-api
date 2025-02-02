@@ -105,7 +105,7 @@ spring.h2.console.enabled=true
     <p>If you'd like to contribute to this project, please fork the repository, make your changes, and create a pull request.</p>
 
   <footer>
-        <p>&copy; 2024 Sifiso Vinjwa. All Rights Reserved.</p>
+        <p>&copy; 2024 Developed Sifiso Vinjwa. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
