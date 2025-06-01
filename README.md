@@ -31,7 +31,7 @@
     <p>Follow these steps to get the application running on your local machine:</p>
     <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/yourusername/shopping-cart-system-spring-boot.git</code></pre>
+        <pre><code>git clone https://github.com/chisa-sifiso/shopping-cart-system-spring-boot.git</code></pre>
         
    <li>Navigate to the project directory:</li>
         <pre><code>cd shopping-cart-system-spring-boot</code></pre>
